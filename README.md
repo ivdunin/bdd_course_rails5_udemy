@@ -1,5 +1,7 @@
 # README
 
+Course repo [bdd_course_rails5](https://github.com/udemyrailscourse/bdd_course_rails5)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
